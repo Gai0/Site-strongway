@@ -1,0 +1,51 @@
+html{
+  
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+header{
+    
+    width: 1900px;
+    height: 130px;
+    background-position: center;
+    background-size: cover;   
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color: white;  
+}
+header .cabecalho li{
+    display: inline-block;
+    padding: 8px 10px;
+    padding-top: 7%;
+    border-radius: 3px;  
+}
+
+.menu{
+    color: black;
+    padding: 8px 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{       
+    text-align: justify;
+    height: 100px;
+    width: 80%;
+    justify-content: center;    
+ }
+
+ form{
+    text-align: center;
+ }
+
+ img{    
+    text-align: center;
+    width: 400px;
+    height: 100px;
+    justify-content: center;
+  
+ }
